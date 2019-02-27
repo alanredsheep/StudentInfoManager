@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/gradeInfoManage.jsp=UTF-8
+encoding//WebContent/main.jsp=UTF-8
+encoding//src/com/redsheep/web/GradeComboListServlet.java=UTF-8
+encoding//src/com/redsheep/web/GradeSaveServlet.java=UTF-8
+encoding//src/com/redsheep/web/StudentDeleteServlet.java=UTF-8
+encoding//src/com/redsheep/web/StudentSaveServlet.java=UTF-8
